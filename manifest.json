@@ -1,0 +1,9 @@
+{
+  "name": "Communication progressive du français — Avancé",
+  "short_name": "CP Avancé",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#86a06e",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
